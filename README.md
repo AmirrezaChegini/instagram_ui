@@ -4,7 +4,7 @@ This is sample of instagram's UI with 2 different themes.
 # packages used
 1-Staggered Grid View
 
-# Photoes
+# Photos
 1-Splash Screen
 
 <img src="https://user-images.githubusercontent.com/98664397/189481035-e10c5a3f-1234-48ee-98ce-478dd84b758f.png" width=200 height=400> <img src="https://user-images.githubusercontent.com/98664397/189481112-f0bfa656-03d5-4c1a-bd29-1558cc041d6d.png" width=200 height=400>
