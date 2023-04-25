@@ -25,11 +25,13 @@ instagram ui clone with 2 themes
 
 <image src="https://user-images.githubusercontent.com/98664397/234416664-55588305-50cf-4650-b0d5-c321f32d72a0.png" width=300 height=600> <image src="https://user-images.githubusercontent.com/98664397/234416695-bf39b927-c774-4675-85c6-2cb7a5f8cd89.png" width=300 height=600>
 
+# records
+https://user-images.githubusercontent.com/98664397/234417886-7edf7a54-abfe-4df1-b3d7-02cb8f4b920b.mp4
 
+https://user-images.githubusercontent.com/98664397/234418036-b4ba0f77-4aa1-470a-a466-d60aef0597a6.mp4
 
+https://user-images.githubusercontent.com/98664397/234418231-4719e73c-bacf-4951-9e71-5e5c32f8e545.mp4
 
+https://user-images.githubusercontent.com/98664397/234418347-39c8307f-0993-49fd-87c6-e731e288085e.mp4
 
-
-
-
-
+https://user-images.githubusercontent.com/98664397/234418500-5eacd93a-3361-4797-83a8-886c0684d006.mp4
